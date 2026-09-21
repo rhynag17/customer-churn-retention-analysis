@@ -45,7 +45,7 @@ Loyal High-Value: $138,150 cost, $620,017 expected savings, $481,867 net
 New & High-Risk: $140,250 cost, $1,520,534 expected savings, $1,380,284 net
 Mid-Tenure, Low-Risk: $116,025 cost, $70,173 expected savings, -$45,852 net
 
-Mid-Tenure, Low-Risk actually loses money if targeted, since their churn risk is only 10% and most weren't leaving anyway. That's the main insight here: rank segments by ROI, not just by risk.
+Mid-Tenure, Low-Risk actually loses money if targeted, since their churn risk is only 10% and most weren't leaving anyway. 
 
 ## Recommendation
 
